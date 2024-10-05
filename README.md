@@ -40,7 +40,7 @@ A simple Python-based GUI application to manage and track student attendance. Bu
    Open your terminal or command prompt and execute:
 
    ```bash
-   git clone https://github.com/yourusername/student-attendance-tracker.git
+   git clone https://github.com/yasinULLAH/Daily-attendance-tracker-.git
    cd student-attendance-tracker
    ```
 
